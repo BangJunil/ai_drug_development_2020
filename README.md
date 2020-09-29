@@ -8,7 +8,7 @@
    
     - Code Links:
       - EDA: https://github.com/kaicd/ai_drug_development_2020/blob/master/beginner/day2/Molecular_Visualization_using_RDkit.ipynb
-      - DeepChem: https://nextjournal.com/kaicd/deepchem-라이브러리를-활용한-solubility-modeling
+      - DeepChem: https://github.com/kaicd/ai_drug_development_2020/blob/master/beginner/day2/DeepChem_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC_%ED%99%9C%EC%9A%A9%ED%95%9CSolubility_Modeling.ipynb
       - Pytorch Prediction: https://nextjournal.com/kaicd/pytorch를-사용한-qsar-모델-구축prediction2
       - Pytorch Classification: https://nextjournal.com/kaicd/pytorch를-사용한-qsar-모델-구축classification2
   - Day 3
